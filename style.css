@@ -1,1 +1,9 @@
-
+body {background-color: rgb(53, 183, 201);}
+            h1 {color: rgb(135, 182, 176); text-align: center;}
+            h2 {color: rgb(0, 153, 255); text-align: center;}
+            h3 {color: rgb(0, 225, 255); text-align: center;}
+            h4 {color: rgb(0, 255, 242); text-align: center;}
+            h5 {color: rgb(0, 238, 255); text-align: center;}
+            p {color:red; text-align: center;}
+            img {max-width: 50%; height: auto; margin: auto; display: block;}
+            pre {text-align: center;}
